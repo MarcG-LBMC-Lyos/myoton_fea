@@ -1,0 +1,4 @@
+# Ignore everything in model directory except .k files
+model/*
+!model/*.k
+.idea
