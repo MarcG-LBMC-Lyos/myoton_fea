@@ -18,7 +18,8 @@ You need to be on the Lyon 1 network or to use the Lyon 1 VPN.
 For a quickstart with LS-Dyna, check the Quickstart.md file in the repository. It will guide you through the steps to create and run a simulation with LS-Dyna and LS-Prepost.
 
 
-# FE Model Overview
+# FE Model Overview  
+![img.png](assets/readme.md/img3.png)
 
 ## Description
 This finite element model simulates the dynamic interaction between a **rigid cylinder** and a **deformable soft surface**. The cylinder undergoes periodic vertical oscillation at a fixed frequency, repeatedly making contact with the underlying surface and inducing vibration response.
